@@ -1,3 +1,3 @@
 Cách dùng giao diện: 
 - Chạy Build/ChessAI.exe.
-- Chú ý khi chọn độ sâu: chỉ chọn độ sâu từ 1 đến 6 để tránh lỗi
+- Chú ý khi chọn độ sâu: ưu tiên chọn độ sâu 4 và 5
